@@ -1,0 +1,7 @@
+Our AI team works on RAG pipelines, web scraping, LLM fine-tuning, agentic AI, FastAPI services, and Docker deployment.
+
+RAG means Retrieval-Augmented Generation. In RAG, documents are split into chunks, converted into embeddings, stored in a vector database, and retrieved during question answering.
+
+FastAPI is used to serve AI models through API endpoints. Docker is used to package and deploy the service.
+
+LangChain helps connect LLMs, prompts, retrievers, vector databases, and document loaders.
